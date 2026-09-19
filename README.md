@@ -51,6 +51,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 ## 3D genome from sequence
 
+- [Akita](https://github.com/calico/basenji/tree/master/manuscripts/akita): predicts 3D genome architecture and Hi-C contact maps directly from DNA sequence
 - [Orca](https://github.com/jzhoulab/orca): predicts multiscale 3D genome folding from sequence
 - [Puffin](https://github.com/jzhoulab/puffin): interpretable model of transcription initiation from promoter sequence
 
