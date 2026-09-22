@@ -12,6 +12,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [enformer-pytorch](https://github.com/lucidrains/enformer-pytorch): community PyTorch implementation with pretrained weights
 - [EPInformer](https://github.com/pinellolab/EPInformer): gene expression prediction combining sequence, epigenomic signal, and enhancer-promoter contacts
 - [ExPecto](https://github.com/FunctionLab/ExPecto): predicts tissue-specific expression and variant effects from sequence
+- [LegNet](https://github.com/autosome-ru/LegNet): predicts gene expression and variant effects from short regulatory DNA sequences
 - [Sei](https://github.com/FunctionLab/sei-framework): predicts sequence regulatory activity and assigns it to regulatory classes
 - [Xpresso](https://github.com/vagarwal87/Xpresso): predicts steady-state mRNA levels from promoter sequence
 
