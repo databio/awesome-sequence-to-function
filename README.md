@@ -4,6 +4,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 ## Sequence-to-expression models
 
+- [AbExp](https://github.com/gagneurlab/AbExp): predicts tissue-specific aberrant gene expression from DNA sequence variants
 - [AlphaGenome](https://github.com/google-deepmind/alphagenome): unified model predicting many regulatory modalities across 1 Mb of sequence at base resolution
 - [Basenji](https://github.com/calico/basenji): dilated convolutional model predicting CAGE and epigenomic tracks from sequence
 - [Borzoi](https://github.com/calico/borzoi): predicts RNA-seq coverage from sequence, including splicing and polyadenylation effects
