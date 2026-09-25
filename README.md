@@ -90,6 +90,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 - [boda2 / Malinois](https://github.com/sjgosai/boda2): deep learning design of cell-type-specific regulatory elements
 - [DDSM](https://github.com/jzhoulab/ddsm): Dirichlet diffusion score model for generating regulatory sequence
+- [DNA-Diffusion](https://github.com/pinellolab/DNA-Diffusion): generates cell-type-specific regulatory DNA sequences using diffusion models
 - [Ledidi](https://github.com/jmschrei/ledidi): turns trained sequence models into sequence editors
 - [regLM](https://github.com/Genentech/regLM): language-model-based design of regulatory DNA
 
