@@ -41,6 +41,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [AbSplice](https://github.com/gagneurlab/absplice): predicts tissue-specific aberrant splicing from DNA sequence variants
 - [MMSplice / MTSplice](https://github.com/gagneurlab/MMSplice_MTSplice): modular models of splicing and tissue-specific splicing effects
 - [Pangolin](https://github.com/tkzeng/Pangolin): splice site usage prediction across tissues and species
+- [SPLAM](https://github.com/Kuanhao-Chao/SPLAM): predicts splice site scores and junction quality from flanking DNA sequences
 - [SpliceAI](https://github.com/Illumina/SpliceAI): predicts splice junctions from primary sequence
 - [SpliceBERT](https://github.com/chenkenbio/SpliceBERT): pre-trained RNA language model predicting splicing features and variant effects from precursor RNA sequence
 
