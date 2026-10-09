@@ -98,6 +98,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 ## Frameworks and tooling
 
+- [Caduceus](https://github.com/kuleshov-group/caduceus): bi-directional, reverse-complement equivariant DNA sequence model for long-range sequence modeling and downstream functional prediction
 - [EUGENe](https://github.com/ML4GLand/EUGENe): end-to-end framework for building and evaluating sequence models
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
