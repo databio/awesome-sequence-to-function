@@ -105,6 +105,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
 - [Kipoi](https://github.com/kipoi/kipoi): model zoo and standardized API for genomics models
 - [ML4GLand](https://github.com/ML4GLand): collection of libraries for sequence-based machine learning in genomics
+- [Nucleotide Transformer](https://github.com/instadeepai/nucleotide-transformer): foundation model suite predicting molecular traits including promoter strength, splice sites, and chromatin features directly from DNA sequence
 
 ## Benchmarks and evaluation
 
