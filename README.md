@@ -29,6 +29,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [DanQ](https://github.com/uci-cbcl/DanQ): hybrid convolutional and recurrent model of noncoding function
 - [DeepSEA](https://www.nature.com/articles/nmeth.3547): early deep model predicting chromatin effects of noncoding variants
 - [DeepSTARR](https://github.com/bernardo-de-almeida/DeepSTARR): predicts enhancer activity measured by STARR-seq
+- [FactorNet](https://github.com/uci-cbcl/FactorNet): predicts cell-type-specific transcription factor binding from sequence and cell-type features
 - [gkmExplain](https://github.com/kundajelab/gkmexplain): efficient importance scores for gapped k-mer SVMs
 - [lsgkm](https://github.com/Dongwon-Lee/lsgkm): large-scale gapped k-mer SVM for regulatory sequence classification
 - [maxATAC](https://github.com/MiraldiLab/maxATAC): TF binding prediction from ATAC-seq signal and sequence
