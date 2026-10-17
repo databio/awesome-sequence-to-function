@@ -15,6 +15,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [ExPecto](https://github.com/FunctionLab/ExPecto): predicts tissue-specific expression and variant effects from sequence
 - [LegNet](https://github.com/autosome-ru/LegNet): predicts gene expression and variant effects from short regulatory DNA sequences
 - [ProCapNet](https://github.com/kundajelab/ProCapNet): predicts base-resolution transcription initiation profiles from sequence
+- [Scooby](https://github.com/gagneurlab/scooby): predicts single-cell gene expression and chromatin accessibility profiles directly from DNA sequence
 - [Sei](https://github.com/FunctionLab/sei-framework): predicts sequence regulatory activity and assigns it to regulatory classes
 - [Xpresso](https://github.com/vagarwal87/Xpresso): predicts steady-state mRNA levels from promoter sequence
 
