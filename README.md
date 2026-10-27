@@ -104,6 +104,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [EUGENe](https://github.com/ML4GLand/EUGENe): end-to-end framework for building and evaluating sequence models
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
+- [GENA-LM](https://github.com/AIRI-Institute/GENA_LM): open-source genomic foundation model family for long DNA sequence modeling and functional readout prediction
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
 - [Kipoi](https://github.com/kipoi/kipoi): model zoo and standardized API for genomics models
