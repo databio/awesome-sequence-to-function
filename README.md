@@ -53,6 +53,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [DeepRiPe](https://github.com/ohlerlab/DeepRiPe): predicts RNA-binding protein binding from sequence
 - [Optimus 5-Prime](https://github.com/pjsample/human_5utr_modeling): 5' UTR design and variant effect prediction on translation
 - [Orthrus](https://github.com/bowang-lab/Orthrus): contrastive mature RNA model for functional RNA property prediction
+- [RiboNN](https://github.com/Sanofi-Public/RiboNN): predicts translation efficiency from mRNA sequence
 - [Saluki](https://github.com/calico/basenji/tree/master/manuscripts/saluki): predicts mRNA half-life from sequence
 - [UTR-LM](https://github.com/a96123155/UTR-LM): language model of 5' UTRs for translation and expression prediction
 
