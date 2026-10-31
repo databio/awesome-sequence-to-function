@@ -45,6 +45,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [SPLAM](https://github.com/Kuanhao-Chao/SPLAM): predicts splice site scores and junction quality from flanking DNA sequences
 - [SpliceAI](https://github.com/Illumina/SpliceAI): predicts splice junctions from primary sequence
 - [SpliceBERT](https://github.com/chenkenbio/SpliceBERT): pre-trained RNA language model predicting splicing features and variant effects from precursor RNA sequence
+- [SpliceTransformer](https://github.com/ShenLab-Genomics/SpliceTransformer): predicts tissue-specific splice sites and variant effects from pre-mRNA sequence
 
 ## RNA stability, UTRs, and translation
 
