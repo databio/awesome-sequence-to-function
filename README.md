@@ -28,6 +28,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [chromBPNet](https://github.com/kundajelab/chrombpnet): bias-factorized, base-resolution models of chromatin accessibility
 - [CREsted](https://github.com/aertslab/CREsted): training and interpreting sequence models of cell-type-specific accessibility
 - [DanQ](https://github.com/uci-cbcl/DanQ): hybrid convolutional and recurrent model of noncoding function
+- [DeepArk](https://github.com/FunctionLab/DeepArk): predicts cell-type-specific chromatin accessibility, histone marks, and TF binding from DNA sequence across model organisms
 - [DeepSEA](https://www.nature.com/articles/nmeth.3547): early deep model predicting chromatin effects of noncoding variants
 - [DeepSTARR](https://github.com/bernardo-de-almeida/DeepSTARR): predicts enhancer activity measured by STARR-seq
 - [gkmExplain](https://github.com/kundajelab/gkmexplain): efficient importance scores for gapped k-mer SVMs
