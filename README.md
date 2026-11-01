@@ -105,6 +105,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2): efficient foundation model for genomic sequence understanding and genome-wide functional prediction
 - [EUGENe](https://github.com/ML4GLand/EUGENe): end-to-end framework for building and evaluating sequence models
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
+- [Evo 2](https://github.com/ArcInstitute/evo2): biological foundation model family for long-context sequence modeling, variant effect prediction, and genome design across all domains of life
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
