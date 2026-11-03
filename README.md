@@ -108,6 +108,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
 - [Evo 2](https://github.com/ArcInstitute/evo2): biological foundation model family for long-context sequence modeling, variant effect prediction, and genome design across all domains of life
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
+- [GENA-LM](https://github.com/AIRI-Institute/GENA_LM): transformer foundation models trained on human and vertebrate genomic DNA sequences for downstream functional prediction
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
 - [Kipoi](https://github.com/kipoi/kipoi): model zoo and standardized API for genomics models
