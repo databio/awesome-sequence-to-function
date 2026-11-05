@@ -118,6 +118,7 @@ A collection of models and methods that predict functional genomic readouts dire
 ## Benchmarks and evaluation
 
 - [BEND](https://github.com/frederikkemarin/BEND): benchmark of DNA language models on realistic genomic tasks
+- [BEND 2.0](https://github.com/MachineLearningLifeScience/BEND2): benchmarks genomic models on mutation effects, context dependence, and sequence design across eight tasks
 - [CAGI](https://genomeinterpretation.org/): community assessment of genome interpretation methods
 - [DART-Eval](https://github.com/kundajelab/DART-Eval): benchmark of DNA models on regulatory sequence tasks
 - [Genomic Benchmarks](https://github.com/ML-Bioinfo-CEITEC/genomic_benchmarks): datasets and baselines for genomic sequence classification
