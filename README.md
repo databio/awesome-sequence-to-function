@@ -103,6 +103,7 @@ A collection of models and methods that predict functional genomic readouts dire
 ## Frameworks and tooling
 
 - [Caduceus](https://github.com/kuleshov-group/caduceus): bi-directional, reverse-complement equivariant DNA sequence model for long-range sequence modeling and downstream functional prediction
+- [Carbon](https://github.com/huggingface/carbon): genomic foundation models trained on DNA and RNA sequences for sequence generation, zero-shot variant effect prediction, and fine-tuning
 - [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2): efficient foundation model for genomic sequence understanding and genome-wide functional prediction
 - [EUGENe](https://github.com/ML4GLand/EUGENe): end-to-end framework for building and evaluating sequence models
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
