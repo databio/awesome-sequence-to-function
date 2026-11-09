@@ -104,12 +104,12 @@ A collection of models and methods that predict functional genomic readouts dire
 
 - [Caduceus](https://github.com/kuleshov-group/caduceus): bi-directional, reverse-complement equivariant DNA sequence model for long-range sequence modeling and downstream functional prediction
 - [Carbon](https://github.com/huggingface/carbon): genomic foundation models trained on DNA and RNA sequences for sequence generation, zero-shot variant effect prediction, and fine-tuning
+- [DNABERT](https://github.com/jerryji1993/DNABERT): foundational bidirectional transformer model trained on DNA sequences for predicting promoters, splice sites, and transcription factor binding
 - [DNABERT-2](https://github.com/MAGICS-LAB/DNABERT_2): efficient foundation model for genomic sequence understanding and genome-wide functional prediction
 - [EUGENe](https://github.com/ML4GLand/EUGENe): end-to-end framework for building and evaluating sequence models
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
 - [Evo 2](https://github.com/ArcInstitute/evo2): biological foundation model family for long-context sequence modeling, variant effect prediction, and genome design across all domains of life
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
-- [GENA-LM](https://github.com/AIRI-Institute/GENA_LM): open-source foundation models for long DNA sequences predicting promoter activity, splice sites, and chromatin profiles
 - [GENERator](https://github.com/GenerTeam/GENERator): generative genomic foundation model for sequence understanding, variant effect prediction, and regulatory sequence design
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
