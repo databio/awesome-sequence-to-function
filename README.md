@@ -28,8 +28,10 @@ A collection of models and methods that predict functional genomic readouts dire
 - [chromBPNet](https://github.com/kundajelab/chrombpnet): bias-factorized, base-resolution models of chromatin accessibility
 - [CREsted](https://github.com/aertslab/CREsted): training and interpreting sequence models of cell-type-specific accessibility
 - [DanQ](https://github.com/uci-cbcl/DanQ): hybrid convolutional and recurrent model of noncoding function
+- [DeepArk](https://github.com/FunctionLab/DeepArk): predicts histone modifications, TF binding, and chromatin state from DNA sequence in fly, mouse, worm, and fish
 - [DeepSEA](https://www.nature.com/articles/nmeth.3547): early deep model predicting chromatin effects of noncoding variants
 - [DeepSTARR](https://github.com/bernardo-de-almeida/DeepSTARR): predicts enhancer activity measured by STARR-seq
+- [FactorNet](https://github.com/uci-cbcl/FactorNet): predicts cell-type-specific transcription factor binding from sequence and cell-type features
 - [gkmExplain](https://github.com/kundajelab/gkmexplain): efficient importance scores for gapped k-mer SVMs
 - [lsgkm](https://github.com/Dongwon-Lee/lsgkm): large-scale gapped k-mer SVM for regulatory sequence classification
 - [maxATAC](https://github.com/MiraldiLab/maxATAC): TF binding prediction from ATAC-seq signal and sequence
@@ -109,6 +111,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [Evo](https://github.com/evo-design/evo): long-context genomic foundation model predicting sequence function and generating DNA across molecular and genome scales
 - [Evo 2](https://github.com/ArcInstitute/evo2): biological foundation model family for long-context sequence modeling, variant effect prediction, and genome design across all domains of life
 - [EvoAug](https://github.com/p-koo/evoaug): evolution-inspired data augmentation for regulatory sequence models
+- [GENA-LM](https://github.com/AIRI-Institute/GENA_LM): open-source DNA language models for long sequences, pretrained on the T2T human genome and fine-tuned for functional prediction tasks
 - [GENERator](https://github.com/GenerTeam/GENERator): generative genomic foundation model for sequence understanding, variant effect prediction, and regulatory sequence design
 - [gReLU](https://github.com/Genentech/gReLU): comprehensive framework for training, interpreting, and designing with sequence models
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna): long-range genomic foundation model predicting chromatin accessibility, histone marks, and sequence features from DNA sequence
