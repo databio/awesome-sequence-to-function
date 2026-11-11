@@ -13,6 +13,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [enformer-pytorch](https://github.com/lucidrains/enformer-pytorch): community PyTorch implementation with pretrained weights
 - [EPInformer](https://github.com/pinellolab/EPInformer): gene expression prediction combining sequence, epigenomic signal, and enhancer-promoter contacts
 - [ExPecto](https://github.com/FunctionLab/ExPecto): predicts tissue-specific expression and variant effects from sequence
+- [Flashzoi](https://github.com/johahi/borzoi-pytorch): up to 3x faster Borzoi variant that predicts RNA-seq coverage from sequence at comparable accuracy
 - [LegNet](https://github.com/autosome-ru/LegNet): predicts gene expression and variant effects from short regulatory DNA sequences
 - [ProCapNet](https://github.com/kundajelab/ProCapNet): predicts base-resolution transcription initiation profiles from sequence
 - [Scooby](https://github.com/gagneurlab/scooby): predicts single-cell gene expression and chromatin accessibility profiles directly from DNA sequence
@@ -67,6 +68,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [deepC](https://github.com/Hughes-Genome-Group/deepC): predicts Hi-C chromatin interactions from sequence
 - [Orca](https://github.com/jzhoulab/orca): predicts multiscale 3D genome folding from sequence
 - [Puffin](https://github.com/jzhoulab/puffin): interpretable model of transcription initiation from promoter sequence
+- [TwinC](https://github.com/Noble-Lab/twinc): CNN predicting inter-chromosomal (trans) 3D genome contacts from DNA sequence
 
 ## Enhancer-gene linking
 
@@ -82,6 +84,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 - [AlphaMissense](https://github.com/google-deepmind/alphamissense): proteome-wide missense variant pathogenicity prediction
 - [CADD](https://cadd.gs.washington.edu/): integrative deleteriousness score for variants across the genome
+- [DeepVRegulome](https://github.com/DavuluriLab/DeepVRegulome): DNABERT-based prediction of how short non-coding variants change TF binding, histone marks, and splice sites
 - [GPN](https://github.com/songlab-cal/gpn): genomic pretrained network, including GPN-MSA for variant effect scoring
 
 ## Model interpretation
