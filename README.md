@@ -80,7 +80,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [SCENIC+](https://github.com/aertslab/scenicplus): single-cell multiomic inference of enhancer-driven regulatory networks
 - [SCENT](https://github.com/immunogenomics/SCENT): single-cell enhancer target gene mapping
 - [TargetFinder](https://github.com/shwhalen/targetfinder): predicts enhancer-promoter interactions from genomic features
-- [UniversalEPI](https://github.com/BoevaLab/UniversalEPI): attention-based ensemble predicting enhancer-promoter interactions up to 2 Mb from DNA sequence and chromatin accessibility, including in unseen cell types
+- [UniversalEPI](https://github.com/BoevaLab/UniversalEPI): predicts cell type-specific enhancer-promoter interactions up to 2 Mb from DNA sequence and ATAC-seq
 
 ## Variant effect prediction
 
