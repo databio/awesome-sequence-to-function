@@ -43,6 +43,7 @@ A collection of models and methods that predict functional genomic readouts dire
 ## Splicing
 
 - [AbSplice](https://github.com/gagneurlab/absplice): predicts tissue-specific aberrant splicing from DNA sequence variants
+- [HELIX](https://github.com/gyjames/HELIX): predicts splice site strength and isoform usage from pre-mRNA sequence and RNA-binding protein expression
 - [MMSplice / MTSplice](https://github.com/gagneurlab/MMSplice_MTSplice): modular models of splicing and tissue-specific splicing effects
 - [Pangolin](https://github.com/tkzeng/Pangolin): splice site usage prediction across tissues and species
 - [SPLAM](https://github.com/Kuanhao-Chao/SPLAM): predicts splice site scores and junction quality from flanking DNA sequences
@@ -79,11 +80,13 @@ A collection of models and methods that predict functional genomic readouts dire
 - [SCENIC+](https://github.com/aertslab/scenicplus): single-cell multiomic inference of enhancer-driven regulatory networks
 - [SCENT](https://github.com/immunogenomics/SCENT): single-cell enhancer target gene mapping
 - [TargetFinder](https://github.com/shwhalen/targetfinder): predicts enhancer-promoter interactions from genomic features
+- [UniversalEPI](https://github.com/BoevaLab/UniversalEPI): attention-based ensemble predicting enhancer-promoter interactions up to 2 Mb from DNA sequence and chromatin accessibility, including in unseen cell types
 
 ## Variant effect prediction
 
 - [AlphaMissense](https://github.com/google-deepmind/alphamissense): proteome-wide missense variant pathogenicity prediction
 - [CADD](https://cadd.gs.washington.edu/): integrative deleteriousness score for variants across the genome
+- [DeepAllele](https://github.com/mostafavilabuw/DeepAllele-public): predicts allele-specific TF binding, chromatin accessibility, and gene expression from paired allele sequences
 - [DeepVRegulome](https://github.com/DavuluriLab/DeepVRegulome): DNABERT-based prediction of how short non-coding variants change TF binding, histone marks, and splice sites
 - [GPN](https://github.com/songlab-cal/gpn): genomic pretrained network, including GPN-MSA for variant effect scoring
 
