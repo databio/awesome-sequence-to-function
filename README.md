@@ -22,6 +22,7 @@ A collection of models and methods that predict functional genomic readouts dire
 
 ## Chromatin accessibility and TF binding
 
+- [ASAP](https://github.com/BoevaLab/ASAP): predicts fine-grained ATAC-seq signal from DNA sequence using ConvNeXt V2 feature extractors, with SNV effect prediction
 - [Basset](https://github.com/davek44/Basset): learns the regulatory code of accessible DNA with convolutional networks
 - [basepairmodels](https://github.com/kundajelab/basepairmodels): training and interpretation code for base-resolution profile models
 - [BPNet](https://github.com/kundajelab/bpnet): base-resolution models of TF binding profiles
@@ -45,6 +46,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [AbSplice](https://github.com/gagneurlab/absplice): predicts tissue-specific aberrant splicing from DNA sequence variants
 - [HELIX](https://github.com/gyjames/HELIX): predicts splice site strength and isoform usage from pre-mRNA sequence and RNA-binding protein expression
 - [MMSplice / MTSplice](https://github.com/gagneurlab/MMSplice_MTSplice): modular models of splicing and tissue-specific splicing effects
+- [OpenSpliceAI](https://github.com/Kuanhao-Chao/OpenSpliceAI): PyTorch reimplementation of SpliceAI with retraining for other species and variant effect scoring
 - [Pangolin](https://github.com/tkzeng/Pangolin): splice site usage prediction across tissues and species
 - [SPLAM](https://github.com/Kuanhao-Chao/SPLAM): predicts splice site scores and junction quality from flanking DNA sequences
 - [SpliceAI](https://github.com/Illumina/SpliceAI): predicts splice junctions from primary sequence
@@ -95,6 +97,7 @@ A collection of models and methods that predict functional genomic readouts dire
 - [DeepLIFT](https://github.com/kundajelab/deeplift): importance scores by backpropagating activation differences
 - [fastISM](https://github.com/kundajelab/fastISM): fast in-silico mutagenesis for convolutional sequence models
 - [gopher](https://github.com/shtoneyan/gopher): evaluation and interpretation of quantitative regulatory sequence models
+- [SEAM](https://github.com/evanseitz/seam-nn): attribution-based framework showing how mutations preserve, disrupt, or create regulatory mechanisms
 - [SHAP](https://github.com/shap/shap): unified framework for feature attribution
 - [tangermeme](https://github.com/jmschrei/tangermeme): toolkit for attribution, marginalization, and motif analysis on sequence models
 - [TF-MoDISco](https://github.com/kundajelab/tfmodisco): discovers motifs from attribution scores
